@@ -8,7 +8,7 @@ This program not classify the object, just markers its edges.
 - skimage.exposure
 
 # example
-There is a car image from google search just for the test, you cn change the image.
+There is a car image from google search just for the test, you can change the image and make sure to change its path in the program.
 
 # parameters
 - marker_width is the width of the points markering the edges
